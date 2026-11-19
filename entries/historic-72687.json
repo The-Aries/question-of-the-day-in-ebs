@@ -1,0 +1,26 @@
+{
+  "id": "historic-72687",
+  "kind": "main",
+  "parentId": null,
+  "date": "2026-11-17",
+  "time": "12:19",
+  "question": "•It's perfect weather for today's 𝐐𝐔𝐄𝐒𝐓𝐈𝐎𝐍 𝐎𝐅 𝐓𝐇𝐄 𝐃𝐀𝐘• \"𝐖𝐡𝐨'𝐬 𝐛𝐞𝐭𝐭𝐞𝐫?\"",
+  "multipleChoice": true,
+  "anonymous": false,
+  "participants": null,
+  "options": [
+    {"text": "Ancient Rome", "votes": 5},
+    {"text": "Ancient Greek", "votes": 25},
+    {"text": "Money", "votes": 12},
+    {"text": "The Sun", "votes": 7},
+    {"text": "Stoneage Dudes", "votes": 2},
+    {"text": "The Spartans", "votes": 7},
+    {"text": "Ancient Sumerians", "votes": 0},
+    {"text": "Ancient Babylonians", "votes": 3},
+    {"text": "Carthage", "votes": 2},
+    {"text": "Alexander's Macedonia", "votes": 2},
+    {"text": "Xia Dynasty", "votes": 3},
+    {"text": "The Ausländerbehörde giving my residence permit on time", "votes": 6}
+  ],
+  "notes": ""
+}
