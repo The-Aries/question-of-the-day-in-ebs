@@ -1,3 +1,6 @@
+// Keep page-local identifiers out of the global scope. Other scripts and
+// browser extensions may also declare generic names such as `get`.
+(() => {
 "use strict";
 const state = {
   records: [], mode: "all", search: "", from: "", to: "",
@@ -375,3 +378,4 @@ function bindDateFilter(field) {
 bindDateFilter("from");
 bindDateFilter("to");
 start();
+})();
