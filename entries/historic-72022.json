@@ -1,0 +1,21 @@
+{
+  "id": "historic-72022",
+  "kind": "main",
+  "parentId": null,
+  "date": "2026-11-13",
+  "time": "11:58",
+  "question": "Question of the Day\n\nWho should have priority to use a washing machine?\n\nThe person who puts their clothes in first\nOR\nThe person who pays first",
+  "multipleChoice": false,
+  "anonymous": false,
+  "participants": null,
+  "options": [
+    {"text": "First to load", "votes": 9},
+    {"text": "First to pay", "votes": 3},
+    {"text": "Whoever is ready to press the start button", "votes": 12},
+    {"text": "Other / It depends", "votes": 0},
+    {"text": "No matter which situation, I should have the priority😤", "votes": 2},
+    {"text": "Whoever is better at Wrestling", "votes": 15},
+    {"text": "Duel at high noon", "votes": 15}
+  ],
+  "notes": ""
+}

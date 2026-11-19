@@ -1,0 +1,21 @@
+{
+  "id": "historic-72080",
+  "kind": "main",
+  "parentId": null,
+  "date": "2026-11-13",
+  "time": "12:54",
+  "question": "Question of the afternoon\n\nWho should be on the EBS podcast hosted by Moritz?",
+  "multipleChoice": true,
+  "anonymous": false,
+  "participants": null,
+  "options": [
+    {"text": "C-Block yellers", "votes": 14},
+    {"text": "3 am techno DJ", "votes": 8},
+    {"text": "Ms Bass", "votes": 18},
+    {"text": "Miele (the wasching machine company)", "votes": 42},
+    {"text": "Friedrich Merz", "votes": 12},
+    {"text": "MyWire", "votes": 22},
+    {"text": "Daniel (for breaking in purposes)", "votes": 12}
+  ],
+  "notes": ""
+}

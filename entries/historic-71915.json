@@ -1,0 +1,18 @@
+{
+  "id": "historic-71915",
+  "kind": "main",
+  "parentId": null,
+  "date": "2026-11-12",
+  "time": "00:35",
+  "question": "Question of the Day\n\nDo you ever catch yourself worrying about things that probably won't happen, even though nobody else seems concerned?\n\nFor example: \"What if the sky suddenly fell?\"",
+  "multipleChoice": false,
+  "anonymous": false,
+  "participants": null,
+  "options": [
+    {"text": "Often — I find myself worrying about such things regularly.", "votes": 24},
+    {"text": "Rarely — It's only happened few times in my life.", "votes": 12},
+    {"text": "Never — I don't worry about things like that.", "votes": 3},
+    {"text": "Not sure — I've never really paid attention to this.", "votes": 5}
+  ],
+  "notes": ""
+}
